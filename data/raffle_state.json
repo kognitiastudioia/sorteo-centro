@@ -1,0 +1,3292 @@
+{
+  "raffle": {
+    "id": "raffle-titanium-2026",
+    "nombre": "Gran Sorteo 2026",
+    "descripcion": "Sorteo oficial exclusivo de 500 números. Cada ticket te da la oportunidad de llevarte el combo tecnológico más codiciado del año con entrega inmediata en todo Chile o retiro presencial garantizado.",
+    "premio": "iPhone 16 Pro Max 256GB Titanio + AirPods Pro 2",
+    "premioDetalle": "Incluye iPhone 16 Pro Max 256GB color Titanio Desierto sellado, AirPods Pro 2da Generación con estuche MagSafe USB-C, y $500.000 CLP en efectivo transferible de inmediato.",
+    "imagen": "/src/assets/images/raffle_hero_prize_1791477047971.jpg",
+    "imagenDetalle": "/src/assets/images/raffle_prize_detail_1791477059727.jpg",
+    "precio_numero": 2000,
+    "fecha_sorteo": "2026-10-22T16:42:08.805Z",
+    "estado": "activa",
+    "totalNumeros": 500,
+    "metaRecaudacion": 1000000,
+    "organizador": "Fundación & Eventos Pro Chile",
+    "terminos": "Bases notariales registradas. Sorteo transmitido en vivo ante notario público al vender el 100% de los números o al cumplir la fecha límite.",
+    "flowLink": "https://www.flow.cl/",
+    "flowApiKey": "27FECD5E-E313-40F9-8AC1-73BB832L658B",
+    "flowSecretKey": "cb34518dcdfef8b61a4a55495faef1c1a50e54eb",
+    "machLink": "https://app.soymach.com/rF2V/10dplbjf",
+    "sorteoGanador": {
+      "numero": "111",
+      "buyerNombre": "Javiera Poblete Miranda",
+      "buyerDocumento": "20.109.876-5",
+      "fechaSorteo": "2026-10-08T17:58:08.201Z"
+    },
+    "premios": [
+      {
+        "id": "prize-1",
+        "posicion": 1,
+        "nombre": "Apple iPhone 16 Pro Max 256GB Titanio + AirPods Pro 2",
+        "descripcion": "Equipo nuevo sellado color Titanio Desierto, audífonos AirPods Pro 2da Gen USB-C y $500.000 CLP en efectivo transferible directo.",
+        "imagen": "/src/assets/images/raffle_hero_prize_1791477047971.jpg",
+        "valorEstimado": 1600000,
+        "sorteoGanador": null
+      },
+      {
+        "id": "prize-2",
+        "posicion": 2,
+        "nombre": "PlayStation 5 Slim 1TB + 2 Controles DualSense",
+        "descripcion": "Consola Sony PlayStation 5 Slim edición digital con 2 mandos inalámbricos y garantía oficial.",
+        "imagen": "/src/assets/images/raffle_prize_detail_1791477059727.jpg",
+        "valorEstimado": 550000,
+        "sorteoGanador": null
+      },
+      {
+        "id": "prize-3",
+        "posicion": 3,
+        "nombre": "$200.000 CLP en Efectivo",
+        "descripcion": "Premio monetario transferible de inmediato a la cuenta bancaria del ganador el día del sorteo.",
+        "valorEstimado": 200000,
+        "sorteoGanador": null
+      },
+      {
+        "id": "prize-4",
+        "posicion": 4,
+        "nombre": "Parlante JBL Charge 5 Portable Bluetooth",
+        "descripcion": "Sonido potente con resistencia al agua y polvo IP67 y hasta 20 horas de batería.",
+        "valorEstimado": 140000,
+        "sorteoGanador": null
+      },
+      {
+        "id": "prize-1791482737267-bhhl",
+        "posicion": 5,
+        "nombre": "Gift Card $50.000 Cencosud",
+        "descripcion": "Tarjeta de regalo digital para compras en supermercados o tiendas asociadas",
+        "valorEstimado": 50000,
+        "sorteoGanador": null
+      }
+    ]
+  },
+  "numbers": {
+    "100": {
+      "id": 100,
+      "numero": "100",
+      "estado": "disponible"
+    },
+    "101": {
+      "id": 101,
+      "numero": "101",
+      "estado": "disponible"
+    },
+    "102": {
+      "id": 102,
+      "numero": "102",
+      "estado": "disponible"
+    },
+    "103": {
+      "id": 103,
+      "numero": "103",
+      "estado": "disponible"
+    },
+    "104": {
+      "id": 104,
+      "numero": "104",
+      "estado": "disponible"
+    },
+    "105": {
+      "id": 105,
+      "numero": "105",
+      "estado": "disponible"
+    },
+    "106": {
+      "id": 106,
+      "numero": "106",
+      "estado": "disponible"
+    },
+    "107": {
+      "id": 107,
+      "numero": "107",
+      "estado": "disponible"
+    },
+    "108": {
+      "id": 108,
+      "numero": "108",
+      "estado": "disponible"
+    },
+    "109": {
+      "id": 109,
+      "numero": "109",
+      "estado": "disponible"
+    },
+    "110": {
+      "id": 110,
+      "numero": "110",
+      "estado": "disponible"
+    },
+    "111": {
+      "id": 111,
+      "numero": "111",
+      "estado": "pagado",
+      "buyer_id": "b-8",
+      "buyer_nombre": "Javiera Poblete Miranda",
+      "order_id": "ORD-1008",
+      "payment_id": "PAY-1009",
+      "paid_at": "2026-10-07T16:19:59.320Z"
+    },
+    "112": {
+      "id": 112,
+      "numero": "112",
+      "estado": "disponible"
+    },
+    "113": {
+      "id": 113,
+      "numero": "113",
+      "estado": "disponible"
+    },
+    "114": {
+      "id": 114,
+      "numero": "114",
+      "estado": "disponible"
+    },
+    "115": {
+      "id": 115,
+      "numero": "115",
+      "estado": "disponible"
+    },
+    "116": {
+      "id": 116,
+      "numero": "116",
+      "estado": "disponible"
+    },
+    "117": {
+      "id": 117,
+      "numero": "117",
+      "estado": "disponible"
+    },
+    "118": {
+      "id": 118,
+      "numero": "118",
+      "estado": "pagado",
+      "buyer_id": "b-1",
+      "buyer_nombre": "Carlos Muñoz Valenzuela",
+      "order_id": "ORD-1001",
+      "payment_id": "PAY-1002",
+      "paid_at": "2026-10-06T01:21:11.802Z"
+    },
+    "119": {
+      "id": 119,
+      "numero": "119",
+      "estado": "disponible"
+    },
+    "120": {
+      "id": 120,
+      "numero": "120",
+      "estado": "disponible"
+    },
+    "121": {
+      "id": 121,
+      "numero": "121",
+      "estado": "disponible"
+    },
+    "122": {
+      "id": 122,
+      "numero": "122",
+      "estado": "disponible"
+    },
+    "123": {
+      "id": 123,
+      "numero": "123",
+      "estado": "disponible"
+    },
+    "124": {
+      "id": 124,
+      "numero": "124",
+      "estado": "pagado",
+      "buyer_id": "b-4",
+      "buyer_nombre": "Francisca Araya Rojas",
+      "order_id": "ORD-1004",
+      "payment_id": "PAY-1005",
+      "paid_at": "2026-10-06T10:44:13.921Z"
+    },
+    "125": {
+      "id": 125,
+      "numero": "125",
+      "estado": "disponible"
+    },
+    "126": {
+      "id": 126,
+      "numero": "126",
+      "estado": "disponible"
+    },
+    "127": {
+      "id": 127,
+      "numero": "127",
+      "estado": "disponible"
+    },
+    "128": {
+      "id": 128,
+      "numero": "128",
+      "estado": "disponible"
+    },
+    "129": {
+      "id": 129,
+      "numero": "129",
+      "estado": "disponible"
+    },
+    "130": {
+      "id": 130,
+      "numero": "130",
+      "estado": "disponible"
+    },
+    "131": {
+      "id": 131,
+      "numero": "131",
+      "estado": "disponible"
+    },
+    "132": {
+      "id": 132,
+      "numero": "132",
+      "estado": "disponible"
+    },
+    "133": {
+      "id": 133,
+      "numero": "133",
+      "estado": "disponible"
+    },
+    "134": {
+      "id": 134,
+      "numero": "134",
+      "estado": "disponible"
+    },
+    "135": {
+      "id": 135,
+      "numero": "135",
+      "estado": "disponible"
+    },
+    "136": {
+      "id": 136,
+      "numero": "136",
+      "estado": "disponible"
+    },
+    "137": {
+      "id": 137,
+      "numero": "137",
+      "estado": "disponible"
+    },
+    "138": {
+      "id": 138,
+      "numero": "138",
+      "estado": "disponible"
+    },
+    "139": {
+      "id": 139,
+      "numero": "139",
+      "estado": "disponible"
+    },
+    "140": {
+      "id": 140,
+      "numero": "140",
+      "estado": "disponible"
+    },
+    "141": {
+      "id": 141,
+      "numero": "141",
+      "estado": "disponible"
+    },
+    "142": {
+      "id": 142,
+      "numero": "142",
+      "estado": "disponible"
+    },
+    "143": {
+      "id": 143,
+      "numero": "143",
+      "estado": "disponible"
+    },
+    "144": {
+      "id": 144,
+      "numero": "144",
+      "estado": "disponible"
+    },
+    "145": {
+      "id": 145,
+      "numero": "145",
+      "estado": "disponible"
+    },
+    "146": {
+      "id": 146,
+      "numero": "146",
+      "estado": "disponible"
+    },
+    "147": {
+      "id": 147,
+      "numero": "147",
+      "estado": "disponible"
+    },
+    "148": {
+      "id": 148,
+      "numero": "148",
+      "estado": "disponible"
+    },
+    "149": {
+      "id": 149,
+      "numero": "149",
+      "estado": "disponible"
+    },
+    "150": {
+      "id": 150,
+      "numero": "150",
+      "estado": "pagado",
+      "buyer_id": "b-3",
+      "buyer_nombre": "Matías Morales Lagos",
+      "order_id": "ORD-1003",
+      "payment_id": "PAY-1004",
+      "paid_at": "2026-10-07T23:24:52.827Z"
+    },
+    "151": {
+      "id": 151,
+      "numero": "151",
+      "estado": "disponible"
+    },
+    "152": {
+      "id": 152,
+      "numero": "152",
+      "estado": "disponible"
+    },
+    "153": {
+      "id": 153,
+      "numero": "153",
+      "estado": "disponible"
+    },
+    "154": {
+      "id": 154,
+      "numero": "154",
+      "estado": "disponible"
+    },
+    "155": {
+      "id": 155,
+      "numero": "155",
+      "estado": "disponible"
+    },
+    "156": {
+      "id": 156,
+      "numero": "156",
+      "estado": "disponible"
+    },
+    "157": {
+      "id": 157,
+      "numero": "157",
+      "estado": "disponible"
+    },
+    "158": {
+      "id": 158,
+      "numero": "158",
+      "estado": "disponible"
+    },
+    "159": {
+      "id": 159,
+      "numero": "159",
+      "estado": "disponible"
+    },
+    "160": {
+      "id": 160,
+      "numero": "160",
+      "estado": "disponible"
+    },
+    "161": {
+      "id": 161,
+      "numero": "161",
+      "estado": "disponible"
+    },
+    "162": {
+      "id": 162,
+      "numero": "162",
+      "estado": "disponible"
+    },
+    "163": {
+      "id": 163,
+      "numero": "163",
+      "estado": "disponible"
+    },
+    "164": {
+      "id": 164,
+      "numero": "164",
+      "estado": "disponible"
+    },
+    "165": {
+      "id": 165,
+      "numero": "165",
+      "estado": "disponible"
+    },
+    "166": {
+      "id": 166,
+      "numero": "166",
+      "estado": "disponible"
+    },
+    "167": {
+      "id": 167,
+      "numero": "167",
+      "estado": "disponible"
+    },
+    "168": {
+      "id": 168,
+      "numero": "168",
+      "estado": "disponible"
+    },
+    "169": {
+      "id": 169,
+      "numero": "169",
+      "estado": "disponible"
+    },
+    "170": {
+      "id": 170,
+      "numero": "170",
+      "estado": "disponible"
+    },
+    "171": {
+      "id": 171,
+      "numero": "171",
+      "estado": "disponible"
+    },
+    "172": {
+      "id": 172,
+      "numero": "172",
+      "estado": "disponible"
+    },
+    "173": {
+      "id": 173,
+      "numero": "173",
+      "estado": "disponible"
+    },
+    "174": {
+      "id": 174,
+      "numero": "174",
+      "estado": "disponible"
+    },
+    "175": {
+      "id": 175,
+      "numero": "175",
+      "estado": "disponible"
+    },
+    "176": {
+      "id": 176,
+      "numero": "176",
+      "estado": "disponible"
+    },
+    "177": {
+      "id": 177,
+      "numero": "177",
+      "estado": "disponible"
+    },
+    "178": {
+      "id": 178,
+      "numero": "178",
+      "estado": "disponible"
+    },
+    "179": {
+      "id": 179,
+      "numero": "179",
+      "estado": "disponible"
+    },
+    "180": {
+      "id": 180,
+      "numero": "180",
+      "estado": "pagado",
+      "buyer_id": "b-6",
+      "buyer_nombre": "Camila Espinoza Jara",
+      "order_id": "ORD-1006",
+      "payment_id": "PAY-1007",
+      "paid_at": "2026-10-07T17:02:20.199Z"
+    },
+    "181": {
+      "id": 181,
+      "numero": "181",
+      "estado": "disponible"
+    },
+    "182": {
+      "id": 182,
+      "numero": "182",
+      "estado": "disponible"
+    },
+    "183": {
+      "id": 183,
+      "numero": "183",
+      "estado": "disponible"
+    },
+    "184": {
+      "id": 184,
+      "numero": "184",
+      "estado": "disponible"
+    },
+    "185": {
+      "id": 185,
+      "numero": "185",
+      "estado": "disponible"
+    },
+    "186": {
+      "id": 186,
+      "numero": "186",
+      "estado": "disponible"
+    },
+    "187": {
+      "id": 187,
+      "numero": "187",
+      "estado": "disponible"
+    },
+    "188": {
+      "id": 188,
+      "numero": "188",
+      "estado": "disponible"
+    },
+    "189": {
+      "id": 189,
+      "numero": "189",
+      "estado": "disponible"
+    },
+    "190": {
+      "id": 190,
+      "numero": "190",
+      "estado": "disponible"
+    },
+    "191": {
+      "id": 191,
+      "numero": "191",
+      "estado": "disponible"
+    },
+    "192": {
+      "id": 192,
+      "numero": "192",
+      "estado": "disponible"
+    },
+    "193": {
+      "id": 193,
+      "numero": "193",
+      "estado": "disponible"
+    },
+    "194": {
+      "id": 194,
+      "numero": "194",
+      "estado": "disponible"
+    },
+    "195": {
+      "id": 195,
+      "numero": "195",
+      "estado": "disponible"
+    },
+    "196": {
+      "id": 196,
+      "numero": "196",
+      "estado": "disponible"
+    },
+    "197": {
+      "id": 197,
+      "numero": "197",
+      "estado": "disponible"
+    },
+    "198": {
+      "id": 198,
+      "numero": "198",
+      "estado": "disponible"
+    },
+    "199": {
+      "id": 199,
+      "numero": "199",
+      "estado": "disponible"
+    },
+    "200": {
+      "id": 200,
+      "numero": "200",
+      "estado": "pagado",
+      "buyer_id": "b-3",
+      "buyer_nombre": "Matías Morales Lagos",
+      "order_id": "ORD-1003",
+      "payment_id": "PAY-1004",
+      "paid_at": "2026-10-07T23:24:52.827Z"
+    },
+    "201": {
+      "id": 201,
+      "numero": "201",
+      "estado": "disponible"
+    },
+    "202": {
+      "id": 202,
+      "numero": "202",
+      "estado": "disponible"
+    },
+    "203": {
+      "id": 203,
+      "numero": "203",
+      "estado": "disponible"
+    },
+    "204": {
+      "id": 204,
+      "numero": "204",
+      "estado": "disponible"
+    },
+    "205": {
+      "id": 205,
+      "numero": "205",
+      "estado": "disponible"
+    },
+    "206": {
+      "id": 206,
+      "numero": "206",
+      "estado": "disponible"
+    },
+    "207": {
+      "id": 207,
+      "numero": "207",
+      "estado": "disponible"
+    },
+    "208": {
+      "id": 208,
+      "numero": "208",
+      "estado": "disponible"
+    },
+    "209": {
+      "id": 209,
+      "numero": "209",
+      "estado": "disponible"
+    },
+    "210": {
+      "id": 210,
+      "numero": "210",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "211": {
+      "id": 211,
+      "numero": "211",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "212": {
+      "id": 212,
+      "numero": "212",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "213": {
+      "id": 213,
+      "numero": "213",
+      "estado": "disponible"
+    },
+    "214": {
+      "id": 214,
+      "numero": "214",
+      "estado": "disponible"
+    },
+    "215": {
+      "id": 215,
+      "numero": "215",
+      "estado": "disponible"
+    },
+    "216": {
+      "id": 216,
+      "numero": "216",
+      "estado": "disponible"
+    },
+    "217": {
+      "id": 217,
+      "numero": "217",
+      "estado": "disponible"
+    },
+    "218": {
+      "id": 218,
+      "numero": "218",
+      "estado": "disponible"
+    },
+    "219": {
+      "id": 219,
+      "numero": "219",
+      "estado": "disponible"
+    },
+    "220": {
+      "id": 220,
+      "numero": "220",
+      "estado": "disponible"
+    },
+    "221": {
+      "id": 221,
+      "numero": "221",
+      "estado": "disponible"
+    },
+    "222": {
+      "id": 222,
+      "numero": "222",
+      "estado": "disponible"
+    },
+    "223": {
+      "id": 223,
+      "numero": "223",
+      "estado": "disponible"
+    },
+    "224": {
+      "id": 224,
+      "numero": "224",
+      "estado": "disponible"
+    },
+    "225": {
+      "id": 225,
+      "numero": "225",
+      "estado": "disponible"
+    },
+    "226": {
+      "id": 226,
+      "numero": "226",
+      "estado": "disponible"
+    },
+    "227": {
+      "id": 227,
+      "numero": "227",
+      "estado": "disponible"
+    },
+    "228": {
+      "id": 228,
+      "numero": "228",
+      "estado": "disponible"
+    },
+    "229": {
+      "id": 229,
+      "numero": "229",
+      "estado": "disponible"
+    },
+    "230": {
+      "id": 230,
+      "numero": "230",
+      "estado": "disponible"
+    },
+    "231": {
+      "id": 231,
+      "numero": "231",
+      "estado": "disponible"
+    },
+    "232": {
+      "id": 232,
+      "numero": "232",
+      "estado": "disponible"
+    },
+    "233": {
+      "id": 233,
+      "numero": "233",
+      "estado": "disponible"
+    },
+    "234": {
+      "id": 234,
+      "numero": "234",
+      "estado": "disponible"
+    },
+    "235": {
+      "id": 235,
+      "numero": "235",
+      "estado": "disponible"
+    },
+    "236": {
+      "id": 236,
+      "numero": "236",
+      "estado": "disponible"
+    },
+    "237": {
+      "id": 237,
+      "numero": "237",
+      "estado": "disponible"
+    },
+    "238": {
+      "id": 238,
+      "numero": "238",
+      "estado": "disponible"
+    },
+    "239": {
+      "id": 239,
+      "numero": "239",
+      "estado": "disponible"
+    },
+    "240": {
+      "id": 240,
+      "numero": "240",
+      "estado": "disponible"
+    },
+    "241": {
+      "id": 241,
+      "numero": "241",
+      "estado": "disponible"
+    },
+    "242": {
+      "id": 242,
+      "numero": "242",
+      "estado": "disponible"
+    },
+    "243": {
+      "id": 243,
+      "numero": "243",
+      "estado": "disponible"
+    },
+    "244": {
+      "id": 244,
+      "numero": "244",
+      "estado": "disponible"
+    },
+    "245": {
+      "id": 245,
+      "numero": "245",
+      "estado": "pagado",
+      "buyer_id": "b-5",
+      "buyer_nombre": "Ignacio Fuentes Pinto",
+      "order_id": "ORD-1005",
+      "payment_id": "PAY-1006",
+      "paid_at": "2026-10-08T06:52:29.684Z"
+    },
+    "246": {
+      "id": 246,
+      "numero": "246",
+      "estado": "pagado",
+      "buyer_id": "b-5",
+      "buyer_nombre": "Ignacio Fuentes Pinto",
+      "order_id": "ORD-1005",
+      "payment_id": "PAY-1006",
+      "paid_at": "2026-10-08T06:52:29.684Z"
+    },
+    "247": {
+      "id": 247,
+      "numero": "247",
+      "estado": "disponible"
+    },
+    "248": {
+      "id": 248,
+      "numero": "248",
+      "estado": "disponible"
+    },
+    "249": {
+      "id": 249,
+      "numero": "249",
+      "estado": "disponible"
+    },
+    "250": {
+      "id": 250,
+      "numero": "250",
+      "estado": "disponible"
+    },
+    "251": {
+      "id": 251,
+      "numero": "251",
+      "estado": "disponible"
+    },
+    "252": {
+      "id": 252,
+      "numero": "252",
+      "estado": "disponible"
+    },
+    "253": {
+      "id": 253,
+      "numero": "253",
+      "estado": "disponible"
+    },
+    "254": {
+      "id": 254,
+      "numero": "254",
+      "estado": "disponible"
+    },
+    "255": {
+      "id": 255,
+      "numero": "255",
+      "estado": "disponible"
+    },
+    "256": {
+      "id": 256,
+      "numero": "256",
+      "estado": "disponible"
+    },
+    "257": {
+      "id": 257,
+      "numero": "257",
+      "estado": "disponible"
+    },
+    "258": {
+      "id": 258,
+      "numero": "258",
+      "estado": "disponible"
+    },
+    "259": {
+      "id": 259,
+      "numero": "259",
+      "estado": "disponible"
+    },
+    "260": {
+      "id": 260,
+      "numero": "260",
+      "estado": "disponible"
+    },
+    "261": {
+      "id": 261,
+      "numero": "261",
+      "estado": "disponible"
+    },
+    "262": {
+      "id": 262,
+      "numero": "262",
+      "estado": "disponible"
+    },
+    "263": {
+      "id": 263,
+      "numero": "263",
+      "estado": "disponible"
+    },
+    "264": {
+      "id": 264,
+      "numero": "264",
+      "estado": "disponible"
+    },
+    "265": {
+      "id": 265,
+      "numero": "265",
+      "estado": "disponible"
+    },
+    "266": {
+      "id": 266,
+      "numero": "266",
+      "estado": "disponible"
+    },
+    "267": {
+      "id": 267,
+      "numero": "267",
+      "estado": "disponible"
+    },
+    "268": {
+      "id": 268,
+      "numero": "268",
+      "estado": "disponible"
+    },
+    "269": {
+      "id": 269,
+      "numero": "269",
+      "estado": "disponible"
+    },
+    "270": {
+      "id": 270,
+      "numero": "270",
+      "estado": "disponible"
+    },
+    "271": {
+      "id": 271,
+      "numero": "271",
+      "estado": "disponible"
+    },
+    "272": {
+      "id": 272,
+      "numero": "272",
+      "estado": "disponible"
+    },
+    "273": {
+      "id": 273,
+      "numero": "273",
+      "estado": "disponible"
+    },
+    "274": {
+      "id": 274,
+      "numero": "274",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "275": {
+      "id": 275,
+      "numero": "275",
+      "estado": "disponible"
+    },
+    "276": {
+      "id": 276,
+      "numero": "276",
+      "estado": "disponible"
+    },
+    "277": {
+      "id": 277,
+      "numero": "277",
+      "estado": "disponible"
+    },
+    "278": {
+      "id": 278,
+      "numero": "278",
+      "estado": "disponible"
+    },
+    "279": {
+      "id": 279,
+      "numero": "279",
+      "estado": "disponible"
+    },
+    "280": {
+      "id": 280,
+      "numero": "280",
+      "estado": "disponible"
+    },
+    "281": {
+      "id": 281,
+      "numero": "281",
+      "estado": "disponible"
+    },
+    "282": {
+      "id": 282,
+      "numero": "282",
+      "estado": "disponible"
+    },
+    "283": {
+      "id": 283,
+      "numero": "283",
+      "estado": "disponible"
+    },
+    "284": {
+      "id": 284,
+      "numero": "284",
+      "estado": "disponible"
+    },
+    "285": {
+      "id": 285,
+      "numero": "285",
+      "estado": "disponible"
+    },
+    "286": {
+      "id": 286,
+      "numero": "286",
+      "estado": "disponible"
+    },
+    "287": {
+      "id": 287,
+      "numero": "287",
+      "estado": "disponible"
+    },
+    "288": {
+      "id": 288,
+      "numero": "288",
+      "estado": "disponible"
+    },
+    "289": {
+      "id": 289,
+      "numero": "289",
+      "estado": "disponible"
+    },
+    "290": {
+      "id": 290,
+      "numero": "290",
+      "estado": "disponible"
+    },
+    "291": {
+      "id": 291,
+      "numero": "291",
+      "estado": "disponible"
+    },
+    "292": {
+      "id": 292,
+      "numero": "292",
+      "estado": "disponible"
+    },
+    "293": {
+      "id": 293,
+      "numero": "293",
+      "estado": "disponible"
+    },
+    "294": {
+      "id": 294,
+      "numero": "294",
+      "estado": "disponible"
+    },
+    "295": {
+      "id": 295,
+      "numero": "295",
+      "estado": "disponible"
+    },
+    "296": {
+      "id": 296,
+      "numero": "296",
+      "estado": "disponible"
+    },
+    "297": {
+      "id": 297,
+      "numero": "297",
+      "estado": "disponible"
+    },
+    "298": {
+      "id": 298,
+      "numero": "298",
+      "estado": "disponible"
+    },
+    "299": {
+      "id": 299,
+      "numero": "299",
+      "estado": "disponible"
+    },
+    "300": {
+      "id": 300,
+      "numero": "300",
+      "estado": "disponible"
+    },
+    "301": {
+      "id": 301,
+      "numero": "301",
+      "estado": "pagado",
+      "buyer_id": "b-4",
+      "buyer_nombre": "Francisca Araya Rojas",
+      "order_id": "ORD-1004",
+      "payment_id": "PAY-1005",
+      "paid_at": "2026-10-06T10:44:13.921Z"
+    },
+    "302": {
+      "id": 302,
+      "numero": "302",
+      "estado": "disponible"
+    },
+    "303": {
+      "id": 303,
+      "numero": "303",
+      "estado": "disponible"
+    },
+    "304": {
+      "id": 304,
+      "numero": "304",
+      "estado": "disponible"
+    },
+    "305": {
+      "id": 305,
+      "numero": "305",
+      "estado": "pagado",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null,
+      "buyer_id": "buyer-1791731694190-ho5i",
+      "buyer_nombre": "Esteban Paredes",
+      "order_id": "ORD-694190",
+      "payment_id": "PAY-694190",
+      "paid_at": "2026-10-11T15:14:54.190Z"
+    },
+    "306": {
+      "id": 306,
+      "numero": "306",
+      "estado": "pagado",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null,
+      "buyer_id": "buyer-1791731694190-ho5i",
+      "buyer_nombre": "Esteban Paredes",
+      "order_id": "ORD-694190",
+      "payment_id": "PAY-694190",
+      "paid_at": "2026-10-11T15:14:54.190Z"
+    },
+    "307": {
+      "id": 307,
+      "numero": "307",
+      "estado": "disponible"
+    },
+    "308": {
+      "id": 308,
+      "numero": "308",
+      "estado": "disponible"
+    },
+    "309": {
+      "id": 309,
+      "numero": "309",
+      "estado": "disponible"
+    },
+    "310": {
+      "id": 310,
+      "numero": "310",
+      "estado": "disponible"
+    },
+    "311": {
+      "id": 311,
+      "numero": "311",
+      "estado": "disponible"
+    },
+    "312": {
+      "id": 312,
+      "numero": "312",
+      "estado": "disponible"
+    },
+    "313": {
+      "id": 313,
+      "numero": "313",
+      "estado": "disponible"
+    },
+    "314": {
+      "id": 314,
+      "numero": "314",
+      "estado": "disponible"
+    },
+    "315": {
+      "id": 315,
+      "numero": "315",
+      "estado": "disponible"
+    },
+    "316": {
+      "id": 316,
+      "numero": "316",
+      "estado": "disponible"
+    },
+    "317": {
+      "id": 317,
+      "numero": "317",
+      "estado": "disponible"
+    },
+    "318": {
+      "id": 318,
+      "numero": "318",
+      "estado": "disponible"
+    },
+    "319": {
+      "id": 319,
+      "numero": "319",
+      "estado": "disponible"
+    },
+    "320": {
+      "id": 320,
+      "numero": "320",
+      "estado": "disponible"
+    },
+    "321": {
+      "id": 321,
+      "numero": "321",
+      "estado": "disponible"
+    },
+    "322": {
+      "id": 322,
+      "numero": "322",
+      "estado": "disponible"
+    },
+    "323": {
+      "id": 323,
+      "numero": "323",
+      "estado": "disponible"
+    },
+    "324": {
+      "id": 324,
+      "numero": "324",
+      "estado": "disponible"
+    },
+    "325": {
+      "id": 325,
+      "numero": "325",
+      "estado": "disponible"
+    },
+    "326": {
+      "id": 326,
+      "numero": "326",
+      "estado": "disponible"
+    },
+    "327": {
+      "id": 327,
+      "numero": "327",
+      "estado": "disponible"
+    },
+    "328": {
+      "id": 328,
+      "numero": "328",
+      "estado": "disponible"
+    },
+    "329": {
+      "id": 329,
+      "numero": "329",
+      "estado": "disponible"
+    },
+    "330": {
+      "id": 330,
+      "numero": "330",
+      "estado": "disponible"
+    },
+    "331": {
+      "id": 331,
+      "numero": "331",
+      "estado": "disponible"
+    },
+    "332": {
+      "id": 332,
+      "numero": "332",
+      "estado": "disponible"
+    },
+    "333": {
+      "id": 333,
+      "numero": "333",
+      "estado": "pagado",
+      "buyer_id": "b-7",
+      "buyer_nombre": "Rodrigo Henríquez Palma",
+      "order_id": "ORD-1007",
+      "payment_id": "PAY-1008",
+      "paid_at": "2026-10-06T01:04:26.241Z"
+    },
+    "334": {
+      "id": 334,
+      "numero": "334",
+      "estado": "disponible"
+    },
+    "335": {
+      "id": 335,
+      "numero": "335",
+      "estado": "disponible"
+    },
+    "336": {
+      "id": 336,
+      "numero": "336",
+      "estado": "disponible"
+    },
+    "337": {
+      "id": 337,
+      "numero": "337",
+      "estado": "disponible"
+    },
+    "338": {
+      "id": 338,
+      "numero": "338",
+      "estado": "disponible"
+    },
+    "339": {
+      "id": 339,
+      "numero": "339",
+      "estado": "disponible"
+    },
+    "340": {
+      "id": 340,
+      "numero": "340",
+      "estado": "disponible"
+    },
+    "341": {
+      "id": 341,
+      "numero": "341",
+      "estado": "disponible"
+    },
+    "342": {
+      "id": 342,
+      "numero": "342",
+      "estado": "disponible"
+    },
+    "343": {
+      "id": 343,
+      "numero": "343",
+      "estado": "disponible"
+    },
+    "344": {
+      "id": 344,
+      "numero": "344",
+      "estado": "disponible"
+    },
+    "345": {
+      "id": 345,
+      "numero": "345",
+      "estado": "disponible"
+    },
+    "346": {
+      "id": 346,
+      "numero": "346",
+      "estado": "disponible"
+    },
+    "347": {
+      "id": 347,
+      "numero": "347",
+      "estado": "disponible"
+    },
+    "348": {
+      "id": 348,
+      "numero": "348",
+      "estado": "disponible"
+    },
+    "349": {
+      "id": 349,
+      "numero": "349",
+      "estado": "disponible"
+    },
+    "350": {
+      "id": 350,
+      "numero": "350",
+      "estado": "pagado",
+      "buyer_id": "b-3",
+      "buyer_nombre": "Matías Morales Lagos",
+      "order_id": "ORD-1003",
+      "payment_id": "PAY-1004",
+      "paid_at": "2026-10-07T23:24:52.827Z"
+    },
+    "351": {
+      "id": 351,
+      "numero": "351",
+      "estado": "disponible"
+    },
+    "352": {
+      "id": 352,
+      "numero": "352",
+      "estado": "disponible"
+    },
+    "353": {
+      "id": 353,
+      "numero": "353",
+      "estado": "disponible"
+    },
+    "354": {
+      "id": 354,
+      "numero": "354",
+      "estado": "disponible"
+    },
+    "355": {
+      "id": 355,
+      "numero": "355",
+      "estado": "disponible"
+    },
+    "356": {
+      "id": 356,
+      "numero": "356",
+      "estado": "disponible"
+    },
+    "357": {
+      "id": 357,
+      "numero": "357",
+      "estado": "disponible"
+    },
+    "358": {
+      "id": 358,
+      "numero": "358",
+      "estado": "disponible"
+    },
+    "359": {
+      "id": 359,
+      "numero": "359",
+      "estado": "disponible"
+    },
+    "360": {
+      "id": 360,
+      "numero": "360",
+      "estado": "disponible"
+    },
+    "361": {
+      "id": 361,
+      "numero": "361",
+      "estado": "disponible"
+    },
+    "362": {
+      "id": 362,
+      "numero": "362",
+      "estado": "disponible"
+    },
+    "363": {
+      "id": 363,
+      "numero": "363",
+      "estado": "disponible"
+    },
+    "364": {
+      "id": 364,
+      "numero": "364",
+      "estado": "disponible"
+    },
+    "365": {
+      "id": 365,
+      "numero": "365",
+      "estado": "disponible"
+    },
+    "366": {
+      "id": 366,
+      "numero": "366",
+      "estado": "disponible"
+    },
+    "367": {
+      "id": 367,
+      "numero": "367",
+      "estado": "disponible"
+    },
+    "368": {
+      "id": 368,
+      "numero": "368",
+      "estado": "disponible"
+    },
+    "369": {
+      "id": 369,
+      "numero": "369",
+      "estado": "disponible"
+    },
+    "370": {
+      "id": 370,
+      "numero": "370",
+      "estado": "disponible"
+    },
+    "371": {
+      "id": 371,
+      "numero": "371",
+      "estado": "disponible"
+    },
+    "372": {
+      "id": 372,
+      "numero": "372",
+      "estado": "disponible"
+    },
+    "373": {
+      "id": 373,
+      "numero": "373",
+      "estado": "disponible"
+    },
+    "374": {
+      "id": 374,
+      "numero": "374",
+      "estado": "disponible"
+    },
+    "375": {
+      "id": 375,
+      "numero": "375",
+      "estado": "disponible"
+    },
+    "376": {
+      "id": 376,
+      "numero": "376",
+      "estado": "disponible"
+    },
+    "377": {
+      "id": 377,
+      "numero": "377",
+      "estado": "disponible"
+    },
+    "378": {
+      "id": 378,
+      "numero": "378",
+      "estado": "disponible"
+    },
+    "379": {
+      "id": 379,
+      "numero": "379",
+      "estado": "disponible"
+    },
+    "380": {
+      "id": 380,
+      "numero": "380",
+      "estado": "disponible"
+    },
+    "381": {
+      "id": 381,
+      "numero": "381",
+      "estado": "disponible"
+    },
+    "382": {
+      "id": 382,
+      "numero": "382",
+      "estado": "disponible"
+    },
+    "383": {
+      "id": 383,
+      "numero": "383",
+      "estado": "disponible"
+    },
+    "384": {
+      "id": 384,
+      "numero": "384",
+      "estado": "disponible"
+    },
+    "385": {
+      "id": 385,
+      "numero": "385",
+      "estado": "disponible"
+    },
+    "386": {
+      "id": 386,
+      "numero": "386",
+      "estado": "disponible"
+    },
+    "387": {
+      "id": 387,
+      "numero": "387",
+      "estado": "disponible"
+    },
+    "388": {
+      "id": 388,
+      "numero": "388",
+      "estado": "disponible"
+    },
+    "389": {
+      "id": 389,
+      "numero": "389",
+      "estado": "disponible"
+    },
+    "390": {
+      "id": 390,
+      "numero": "390",
+      "estado": "disponible"
+    },
+    "391": {
+      "id": 391,
+      "numero": "391",
+      "estado": "disponible"
+    },
+    "392": {
+      "id": 392,
+      "numero": "392",
+      "estado": "disponible"
+    },
+    "393": {
+      "id": 393,
+      "numero": "393",
+      "estado": "disponible"
+    },
+    "394": {
+      "id": 394,
+      "numero": "394",
+      "estado": "disponible"
+    },
+    "395": {
+      "id": 395,
+      "numero": "395",
+      "estado": "disponible"
+    },
+    "396": {
+      "id": 396,
+      "numero": "396",
+      "estado": "disponible"
+    },
+    "397": {
+      "id": 397,
+      "numero": "397",
+      "estado": "disponible"
+    },
+    "398": {
+      "id": 398,
+      "numero": "398",
+      "estado": "disponible"
+    },
+    "399": {
+      "id": 399,
+      "numero": "399",
+      "estado": "disponible"
+    },
+    "400": {
+      "id": 400,
+      "numero": "400",
+      "estado": "disponible"
+    },
+    "401": {
+      "id": 401,
+      "numero": "401",
+      "estado": "disponible"
+    },
+    "402": {
+      "id": 402,
+      "numero": "402",
+      "estado": "disponible"
+    },
+    "403": {
+      "id": 403,
+      "numero": "403",
+      "estado": "disponible"
+    },
+    "404": {
+      "id": 404,
+      "numero": "404",
+      "estado": "disponible"
+    },
+    "405": {
+      "id": 405,
+      "numero": "405",
+      "estado": "disponible"
+    },
+    "406": {
+      "id": 406,
+      "numero": "406",
+      "estado": "disponible"
+    },
+    "407": {
+      "id": 407,
+      "numero": "407",
+      "estado": "disponible"
+    },
+    "408": {
+      "id": 408,
+      "numero": "408",
+      "estado": "disponible"
+    },
+    "409": {
+      "id": 409,
+      "numero": "409",
+      "estado": "disponible"
+    },
+    "410": {
+      "id": 410,
+      "numero": "410",
+      "estado": "disponible"
+    },
+    "411": {
+      "id": 411,
+      "numero": "411",
+      "estado": "disponible"
+    },
+    "412": {
+      "id": 412,
+      "numero": "412",
+      "estado": "disponible"
+    },
+    "413": {
+      "id": 413,
+      "numero": "413",
+      "estado": "disponible"
+    },
+    "414": {
+      "id": 414,
+      "numero": "414",
+      "estado": "disponible"
+    },
+    "415": {
+      "id": 415,
+      "numero": "415",
+      "estado": "disponible"
+    },
+    "416": {
+      "id": 416,
+      "numero": "416",
+      "estado": "disponible"
+    },
+    "417": {
+      "id": 417,
+      "numero": "417",
+      "estado": "disponible"
+    },
+    "418": {
+      "id": 418,
+      "numero": "418",
+      "estado": "disponible"
+    },
+    "419": {
+      "id": 419,
+      "numero": "419",
+      "estado": "disponible"
+    },
+    "420": {
+      "id": 420,
+      "numero": "420",
+      "estado": "disponible"
+    },
+    "421": {
+      "id": 421,
+      "numero": "421",
+      "estado": "disponible"
+    },
+    "422": {
+      "id": 422,
+      "numero": "422",
+      "estado": "disponible"
+    },
+    "423": {
+      "id": 423,
+      "numero": "423",
+      "estado": "disponible"
+    },
+    "424": {
+      "id": 424,
+      "numero": "424",
+      "estado": "disponible"
+    },
+    "425": {
+      "id": 425,
+      "numero": "425",
+      "estado": "disponible"
+    },
+    "426": {
+      "id": 426,
+      "numero": "426",
+      "estado": "disponible"
+    },
+    "427": {
+      "id": 427,
+      "numero": "427",
+      "estado": "disponible"
+    },
+    "428": {
+      "id": 428,
+      "numero": "428",
+      "estado": "disponible"
+    },
+    "429": {
+      "id": 429,
+      "numero": "429",
+      "estado": "disponible"
+    },
+    "430": {
+      "id": 430,
+      "numero": "430",
+      "estado": "disponible"
+    },
+    "431": {
+      "id": 431,
+      "numero": "431",
+      "estado": "disponible"
+    },
+    "432": {
+      "id": 432,
+      "numero": "432",
+      "estado": "disponible"
+    },
+    "433": {
+      "id": 433,
+      "numero": "433",
+      "estado": "disponible"
+    },
+    "434": {
+      "id": 434,
+      "numero": "434",
+      "estado": "disponible"
+    },
+    "435": {
+      "id": 435,
+      "numero": "435",
+      "estado": "disponible"
+    },
+    "436": {
+      "id": 436,
+      "numero": "436",
+      "estado": "disponible"
+    },
+    "437": {
+      "id": 437,
+      "numero": "437",
+      "estado": "disponible"
+    },
+    "438": {
+      "id": 438,
+      "numero": "438",
+      "estado": "disponible"
+    },
+    "439": {
+      "id": 439,
+      "numero": "439",
+      "estado": "disponible"
+    },
+    "440": {
+      "id": 440,
+      "numero": "440",
+      "estado": "disponible"
+    },
+    "441": {
+      "id": 441,
+      "numero": "441",
+      "estado": "disponible"
+    },
+    "442": {
+      "id": 442,
+      "numero": "442",
+      "estado": "disponible"
+    },
+    "443": {
+      "id": 443,
+      "numero": "443",
+      "estado": "disponible"
+    },
+    "444": {
+      "id": 444,
+      "numero": "444",
+      "estado": "pagado",
+      "buyer_id": "b-7",
+      "buyer_nombre": "Rodrigo Henríquez Palma",
+      "order_id": "ORD-1007",
+      "payment_id": "PAY-1008",
+      "paid_at": "2026-10-06T01:04:26.241Z"
+    },
+    "445": {
+      "id": 445,
+      "numero": "445",
+      "estado": "disponible"
+    },
+    "446": {
+      "id": 446,
+      "numero": "446",
+      "estado": "disponible"
+    },
+    "447": {
+      "id": 447,
+      "numero": "447",
+      "estado": "disponible"
+    },
+    "448": {
+      "id": 448,
+      "numero": "448",
+      "estado": "disponible"
+    },
+    "449": {
+      "id": 449,
+      "numero": "449",
+      "estado": "disponible"
+    },
+    "450": {
+      "id": 450,
+      "numero": "450",
+      "estado": "disponible"
+    },
+    "451": {
+      "id": 451,
+      "numero": "451",
+      "estado": "disponible"
+    },
+    "452": {
+      "id": 452,
+      "numero": "452",
+      "estado": "disponible"
+    },
+    "453": {
+      "id": 453,
+      "numero": "453",
+      "estado": "disponible"
+    },
+    "454": {
+      "id": 454,
+      "numero": "454",
+      "estado": "disponible"
+    },
+    "455": {
+      "id": 455,
+      "numero": "455",
+      "estado": "disponible"
+    },
+    "456": {
+      "id": 456,
+      "numero": "456",
+      "estado": "disponible"
+    },
+    "457": {
+      "id": 457,
+      "numero": "457",
+      "estado": "disponible"
+    },
+    "458": {
+      "id": 458,
+      "numero": "458",
+      "estado": "disponible"
+    },
+    "459": {
+      "id": 459,
+      "numero": "459",
+      "estado": "disponible"
+    },
+    "460": {
+      "id": 460,
+      "numero": "460",
+      "estado": "disponible"
+    },
+    "461": {
+      "id": 461,
+      "numero": "461",
+      "estado": "disponible"
+    },
+    "462": {
+      "id": 462,
+      "numero": "462",
+      "estado": "disponible"
+    },
+    "463": {
+      "id": 463,
+      "numero": "463",
+      "estado": "disponible"
+    },
+    "464": {
+      "id": 464,
+      "numero": "464",
+      "estado": "disponible"
+    },
+    "465": {
+      "id": 465,
+      "numero": "465",
+      "estado": "disponible"
+    },
+    "466": {
+      "id": 466,
+      "numero": "466",
+      "estado": "disponible"
+    },
+    "467": {
+      "id": 467,
+      "numero": "467",
+      "estado": "disponible"
+    },
+    "468": {
+      "id": 468,
+      "numero": "468",
+      "estado": "disponible"
+    },
+    "469": {
+      "id": 469,
+      "numero": "469",
+      "estado": "disponible"
+    },
+    "470": {
+      "id": 470,
+      "numero": "470",
+      "estado": "disponible"
+    },
+    "471": {
+      "id": 471,
+      "numero": "471",
+      "estado": "disponible"
+    },
+    "472": {
+      "id": 472,
+      "numero": "472",
+      "estado": "disponible"
+    },
+    "473": {
+      "id": 473,
+      "numero": "473",
+      "estado": "disponible"
+    },
+    "474": {
+      "id": 474,
+      "numero": "474",
+      "estado": "disponible"
+    },
+    "475": {
+      "id": 475,
+      "numero": "475",
+      "estado": "disponible"
+    },
+    "476": {
+      "id": 476,
+      "numero": "476",
+      "estado": "disponible"
+    },
+    "477": {
+      "id": 477,
+      "numero": "477",
+      "estado": "disponible"
+    },
+    "478": {
+      "id": 478,
+      "numero": "478",
+      "estado": "disponible"
+    },
+    "479": {
+      "id": 479,
+      "numero": "479",
+      "estado": "disponible"
+    },
+    "480": {
+      "id": 480,
+      "numero": "480",
+      "estado": "pagado",
+      "buyer_id": "b-3",
+      "buyer_nombre": "Matías Morales Lagos",
+      "order_id": "ORD-1003",
+      "payment_id": "PAY-1004",
+      "paid_at": "2026-10-07T23:24:52.827Z"
+    },
+    "481": {
+      "id": 481,
+      "numero": "481",
+      "estado": "disponible"
+    },
+    "482": {
+      "id": 482,
+      "numero": "482",
+      "estado": "disponible"
+    },
+    "483": {
+      "id": 483,
+      "numero": "483",
+      "estado": "disponible"
+    },
+    "484": {
+      "id": 484,
+      "numero": "484",
+      "estado": "disponible"
+    },
+    "485": {
+      "id": 485,
+      "numero": "485",
+      "estado": "disponible"
+    },
+    "486": {
+      "id": 486,
+      "numero": "486",
+      "estado": "disponible"
+    },
+    "487": {
+      "id": 487,
+      "numero": "487",
+      "estado": "disponible"
+    },
+    "488": {
+      "id": 488,
+      "numero": "488",
+      "estado": "disponible"
+    },
+    "489": {
+      "id": 489,
+      "numero": "489",
+      "estado": "disponible"
+    },
+    "490": {
+      "id": 490,
+      "numero": "490",
+      "estado": "disponible"
+    },
+    "491": {
+      "id": 491,
+      "numero": "491",
+      "estado": "disponible"
+    },
+    "492": {
+      "id": 492,
+      "numero": "492",
+      "estado": "disponible"
+    },
+    "493": {
+      "id": 493,
+      "numero": "493",
+      "estado": "disponible"
+    },
+    "494": {
+      "id": 494,
+      "numero": "494",
+      "estado": "disponible"
+    },
+    "495": {
+      "id": 495,
+      "numero": "495",
+      "estado": "disponible"
+    },
+    "496": {
+      "id": 496,
+      "numero": "496",
+      "estado": "disponible"
+    },
+    "497": {
+      "id": 497,
+      "numero": "497",
+      "estado": "disponible"
+    },
+    "498": {
+      "id": 498,
+      "numero": "498",
+      "estado": "disponible"
+    },
+    "499": {
+      "id": 499,
+      "numero": "499",
+      "estado": "disponible"
+    },
+    "500": {
+      "id": 500,
+      "numero": "500",
+      "estado": "pagado",
+      "buyer_id": "b-7",
+      "buyer_nombre": "Rodrigo Henríquez Palma",
+      "order_id": "ORD-1007",
+      "payment_id": "PAY-1008",
+      "paid_at": "2026-10-06T01:04:26.241Z"
+    },
+    "001": {
+      "id": 1,
+      "numero": "001",
+      "estado": "pagado",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null,
+      "buyer_id": "buyer-1791738117503-t1q9",
+      "buyer_nombre": "Test Comprador Flow",
+      "order_id": "ORD-117503",
+      "payment_id": "PAY-117503",
+      "paid_at": "2026-10-11T17:01:57.503Z"
+    },
+    "002": {
+      "id": 2,
+      "numero": "002",
+      "estado": "disponible"
+    },
+    "003": {
+      "id": 3,
+      "numero": "003",
+      "estado": "disponible"
+    },
+    "004": {
+      "id": 4,
+      "numero": "004",
+      "estado": "disponible"
+    },
+    "005": {
+      "id": 5,
+      "numero": "005",
+      "estado": "disponible"
+    },
+    "006": {
+      "id": 6,
+      "numero": "006",
+      "estado": "disponible"
+    },
+    "007": {
+      "id": 7,
+      "numero": "007",
+      "estado": "pagado",
+      "buyer_id": "b-1",
+      "buyer_nombre": "Carlos Muñoz Valenzuela",
+      "order_id": "ORD-1001",
+      "payment_id": "PAY-1002",
+      "paid_at": "2026-10-06T01:21:11.802Z"
+    },
+    "008": {
+      "id": 8,
+      "numero": "008",
+      "estado": "disponible"
+    },
+    "009": {
+      "id": 9,
+      "numero": "009",
+      "estado": "disponible"
+    },
+    "010": {
+      "id": 10,
+      "numero": "010",
+      "estado": "disponible"
+    },
+    "011": {
+      "id": 11,
+      "numero": "011",
+      "estado": "disponible"
+    },
+    "012": {
+      "id": 12,
+      "numero": "012",
+      "estado": "disponible"
+    },
+    "013": {
+      "id": 13,
+      "numero": "013",
+      "estado": "disponible"
+    },
+    "014": {
+      "id": 14,
+      "numero": "014",
+      "estado": "disponible"
+    },
+    "015": {
+      "id": 15,
+      "numero": "015",
+      "estado": "pagado",
+      "buyer_id": "b-6",
+      "buyer_nombre": "Camila Espinoza Jara",
+      "order_id": "ORD-1006",
+      "payment_id": "PAY-1007",
+      "paid_at": "2026-10-07T17:02:20.199Z"
+    },
+    "016": {
+      "id": 16,
+      "numero": "016",
+      "estado": "disponible"
+    },
+    "017": {
+      "id": 17,
+      "numero": "017",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "018": {
+      "id": 18,
+      "numero": "018",
+      "estado": "disponible"
+    },
+    "019": {
+      "id": 19,
+      "numero": "019",
+      "estado": "disponible"
+    },
+    "020": {
+      "id": 20,
+      "numero": "020",
+      "estado": "disponible"
+    },
+    "021": {
+      "id": 21,
+      "numero": "021",
+      "estado": "disponible"
+    },
+    "022": {
+      "id": 22,
+      "numero": "022",
+      "estado": "disponible"
+    },
+    "023": {
+      "id": 23,
+      "numero": "023",
+      "estado": "disponible"
+    },
+    "024": {
+      "id": 24,
+      "numero": "024",
+      "estado": "disponible"
+    },
+    "025": {
+      "id": 25,
+      "numero": "025",
+      "estado": "pagado",
+      "buyer_id": "b-1",
+      "buyer_nombre": "Carlos Muñoz Valenzuela",
+      "order_id": "ORD-1001",
+      "payment_id": "PAY-1002",
+      "paid_at": "2026-10-06T01:21:11.802Z"
+    },
+    "026": {
+      "id": 26,
+      "numero": "026",
+      "estado": "disponible"
+    },
+    "027": {
+      "id": 27,
+      "numero": "027",
+      "estado": "disponible"
+    },
+    "028": {
+      "id": 28,
+      "numero": "028",
+      "estado": "disponible"
+    },
+    "029": {
+      "id": 29,
+      "numero": "029",
+      "estado": "disponible"
+    },
+    "030": {
+      "id": 30,
+      "numero": "030",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "031": {
+      "id": 31,
+      "numero": "031",
+      "estado": "disponible"
+    },
+    "032": {
+      "id": 32,
+      "numero": "032",
+      "estado": "disponible"
+    },
+    "033": {
+      "id": 33,
+      "numero": "033",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "034": {
+      "id": 34,
+      "numero": "034",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "035": {
+      "id": 35,
+      "numero": "035",
+      "estado": "disponible"
+    },
+    "036": {
+      "id": 36,
+      "numero": "036",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "037": {
+      "id": 37,
+      "numero": "037",
+      "estado": "disponible"
+    },
+    "038": {
+      "id": 38,
+      "numero": "038",
+      "estado": "disponible"
+    },
+    "039": {
+      "id": 39,
+      "numero": "039",
+      "estado": "disponible"
+    },
+    "040": {
+      "id": 40,
+      "numero": "040",
+      "estado": "disponible"
+    },
+    "041": {
+      "id": 41,
+      "numero": "041",
+      "estado": "disponible"
+    },
+    "042": {
+      "id": 42,
+      "numero": "042",
+      "estado": "pagado",
+      "buyer_id": "b-2",
+      "buyer_nombre": "Valentina Silva Soto",
+      "order_id": "ORD-1002",
+      "payment_id": "PAY-1003",
+      "paid_at": "2026-10-05T22:58:12.012Z"
+    },
+    "043": {
+      "id": 43,
+      "numero": "043",
+      "estado": "disponible"
+    },
+    "044": {
+      "id": 44,
+      "numero": "044",
+      "estado": "disponible"
+    },
+    "045": {
+      "id": 45,
+      "numero": "045",
+      "estado": "disponible"
+    },
+    "046": {
+      "id": 46,
+      "numero": "046",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "047": {
+      "id": 47,
+      "numero": "047",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "048": {
+      "id": 48,
+      "numero": "048",
+      "estado": "disponible"
+    },
+    "049": {
+      "id": 49,
+      "numero": "049",
+      "estado": "disponible"
+    },
+    "050": {
+      "id": 50,
+      "numero": "050",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "051": {
+      "id": 51,
+      "numero": "051",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "052": {
+      "id": 52,
+      "numero": "052",
+      "estado": "disponible"
+    },
+    "053": {
+      "id": 53,
+      "numero": "053",
+      "estado": "disponible"
+    },
+    "054": {
+      "id": 54,
+      "numero": "054",
+      "estado": "disponible"
+    },
+    "055": {
+      "id": 55,
+      "numero": "055",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "056": {
+      "id": 56,
+      "numero": "056",
+      "estado": "pagado",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null,
+      "buyer_id": "buyer-1791731987063-nn65",
+      "buyer_nombre": "william aranda",
+      "order_id": "ORD-987063",
+      "payment_id": "PAY-987063",
+      "paid_at": "2026-10-11T15:19:47.063Z"
+    },
+    "057": {
+      "id": 57,
+      "numero": "057",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "058": {
+      "id": 58,
+      "numero": "058",
+      "estado": "disponible",
+      "reservation_id": null,
+      "reserved_by_session": null,
+      "reserved_at": null
+    },
+    "059": {
+      "id": 59,
+      "numero": "059",
+      "estado": "disponible"
+    },
+    "060": {
+      "id": 60,
+      "numero": "060",
+      "estado": "disponible"
+    },
+    "061": {
+      "id": 61,
+      "numero": "061",
+      "estado": "disponible"
+    },
+    "062": {
+      "id": 62,
+      "numero": "062",
+      "estado": "disponible"
+    },
+    "063": {
+      "id": 63,
+      "numero": "063",
+      "estado": "disponible"
+    },
+    "064": {
+      "id": 64,
+      "numero": "064",
+      "estado": "disponible"
+    },
+    "065": {
+      "id": 65,
+      "numero": "065",
+      "estado": "disponible"
+    },
+    "066": {
+      "id": 66,
+      "numero": "066",
+      "estado": "disponible"
+    },
+    "067": {
+      "id": 67,
+      "numero": "067",
+      "estado": "disponible"
+    },
+    "068": {
+      "id": 68,
+      "numero": "068",
+      "estado": "disponible"
+    },
+    "069": {
+      "id": 69,
+      "numero": "069",
+      "estado": "disponible"
+    },
+    "070": {
+      "id": 70,
+      "numero": "070",
+      "estado": "disponible"
+    },
+    "071": {
+      "id": 71,
+      "numero": "071",
+      "estado": "disponible"
+    },
+    "072": {
+      "id": 72,
+      "numero": "072",
+      "estado": "disponible"
+    },
+    "073": {
+      "id": 73,
+      "numero": "073",
+      "estado": "disponible"
+    },
+    "074": {
+      "id": 74,
+      "numero": "074",
+      "estado": "disponible"
+    },
+    "075": {
+      "id": 75,
+      "numero": "075",
+      "estado": "disponible"
+    },
+    "076": {
+      "id": 76,
+      "numero": "076",
+      "estado": "disponible"
+    },
+    "077": {
+      "id": 77,
+      "numero": "077",
+      "estado": "pagado",
+      "buyer_id": "b-4",
+      "buyer_nombre": "Francisca Araya Rojas",
+      "order_id": "ORD-1004",
+      "payment_id": "PAY-1005",
+      "paid_at": "2026-10-06T10:44:13.921Z"
+    },
+    "078": {
+      "id": 78,
+      "numero": "078",
+      "estado": "disponible"
+    },
+    "079": {
+      "id": 79,
+      "numero": "079",
+      "estado": "disponible"
+    },
+    "080": {
+      "id": 80,
+      "numero": "080",
+      "estado": "disponible"
+    },
+    "081": {
+      "id": 81,
+      "numero": "081",
+      "estado": "disponible"
+    },
+    "082": {
+      "id": 82,
+      "numero": "082",
+      "estado": "disponible"
+    },
+    "083": {
+      "id": 83,
+      "numero": "083",
+      "estado": "disponible"
+    },
+    "084": {
+      "id": 84,
+      "numero": "084",
+      "estado": "disponible"
+    },
+    "085": {
+      "id": 85,
+      "numero": "085",
+      "estado": "disponible"
+    },
+    "086": {
+      "id": 86,
+      "numero": "086",
+      "estado": "disponible"
+    },
+    "087": {
+      "id": 87,
+      "numero": "087",
+      "estado": "disponible"
+    },
+    "088": {
+      "id": 88,
+      "numero": "088",
+      "estado": "pagado",
+      "buyer_id": "b-8",
+      "buyer_nombre": "Javiera Poblete Miranda",
+      "order_id": "ORD-1008",
+      "payment_id": "PAY-1009",
+      "paid_at": "2026-10-07T16:19:59.320Z"
+    },
+    "089": {
+      "id": 89,
+      "numero": "089",
+      "estado": "disponible"
+    },
+    "090": {
+      "id": 90,
+      "numero": "090",
+      "estado": "disponible"
+    },
+    "091": {
+      "id": 91,
+      "numero": "091",
+      "estado": "disponible"
+    },
+    "092": {
+      "id": 92,
+      "numero": "092",
+      "estado": "disponible"
+    },
+    "093": {
+      "id": 93,
+      "numero": "093",
+      "estado": "disponible"
+    },
+    "094": {
+      "id": 94,
+      "numero": "094",
+      "estado": "disponible"
+    },
+    "095": {
+      "id": 95,
+      "numero": "095",
+      "estado": "disponible"
+    },
+    "096": {
+      "id": 96,
+      "numero": "096",
+      "estado": "disponible"
+    },
+    "097": {
+      "id": 97,
+      "numero": "097",
+      "estado": "disponible"
+    },
+    "098": {
+      "id": 98,
+      "numero": "098",
+      "estado": "disponible"
+    },
+    "099": {
+      "id": 99,
+      "numero": "099",
+      "estado": "pagado",
+      "buyer_id": "b-2",
+      "buyer_nombre": "Valentina Silva Soto",
+      "order_id": "ORD-1002",
+      "payment_id": "PAY-1003",
+      "paid_at": "2026-10-05T22:58:12.012Z"
+    }
+  },
+  "buyers": {
+    "b-1": {
+      "id": "b-1",
+      "nombre": "Carlos Muñoz Valenzuela",
+      "documento": "16.782.901-4",
+      "telefono": "+56 9 8765 4321",
+      "email": "carlos.munoz@email.cl",
+      "created_at": "2026-10-06T01:21:11.802Z"
+    },
+    "b-2": {
+      "id": "b-2",
+      "nombre": "Valentina Silva Soto",
+      "documento": "18.432.109-K",
+      "telefono": "+56 9 7654 3210",
+      "email": "v.silva@gmail.com",
+      "created_at": "2026-10-05T22:58:12.012Z"
+    },
+    "b-3": {
+      "id": "b-3",
+      "nombre": "Matías Morales Lagos",
+      "documento": "15.890.345-2",
+      "telefono": "+56 9 6543 2109",
+      "email": "matias.m@outlook.com",
+      "created_at": "2026-10-07T23:24:52.827Z"
+    },
+    "b-4": {
+      "id": "b-4",
+      "nombre": "Francisca Araya Rojas",
+      "documento": "19.123.456-7",
+      "telefono": "+56 9 5432 1098",
+      "email": "fran.araya@live.cl",
+      "created_at": "2026-10-06T10:44:13.921Z"
+    },
+    "b-5": {
+      "id": "b-5",
+      "nombre": "Ignacio Fuentes Pinto",
+      "documento": "17.654.321-8",
+      "telefono": "+56 9 4321 0987",
+      "email": "ifuentes@hotmail.com",
+      "created_at": "2026-10-08T06:52:29.684Z"
+    },
+    "b-6": {
+      "id": "b-6",
+      "nombre": "Camila Espinoza Jara",
+      "documento": "18.987.654-3",
+      "telefono": "+56 9 3210 9876",
+      "email": "camila.jara@gmail.com",
+      "created_at": "2026-10-07T17:02:20.199Z"
+    },
+    "b-7": {
+      "id": "b-7",
+      "nombre": "Rodrigo Henríquez Palma",
+      "documento": "14.567.890-1",
+      "telefono": "+56 9 9123 4567",
+      "email": "rodrigo.h@empresa.cl",
+      "created_at": "2026-10-06T01:04:26.241Z"
+    },
+    "b-8": {
+      "id": "b-8",
+      "nombre": "Javiera Poblete Miranda",
+      "documento": "20.109.876-5",
+      "telefono": "+56 9 8234 5678",
+      "email": "javi.poblete@gmail.com",
+      "created_at": "2026-10-07T16:19:59.320Z"
+    },
+    "buyer-1791731694190-ho5i": {
+      "id": "buyer-1791731694190-ho5i",
+      "nombre": "Esteban Paredes",
+      "documento": "15.345.678-9",
+      "telefono": "+56 9 8888 7777",
+      "email": "esteban@paredes.cl",
+      "created_at": "2026-10-11T15:14:54.190Z"
+    },
+    "buyer-1791731987063-nn65": {
+      "id": "buyer-1791731987063-nn65",
+      "nombre": "william aranda",
+      "documento": "17.003.766-9",
+      "telefono": "+56934696074",
+      "email": "kognitiastudioia@gmail.com",
+      "created_at": "2026-10-11T15:19:47.063Z"
+    },
+    "buyer-1791738117503-t1q9": {
+      "id": "buyer-1791738117503-t1q9",
+      "nombre": "Test Comprador Flow",
+      "documento": "19.876.543-2",
+      "telefono": "+56912345678",
+      "email": "juan@outlook.com",
+      "created_at": "2026-10-11T17:01:57.503Z"
+    }
+  },
+  "reservations": {
+    "res-seed-1": {
+      "id": "res-seed-1",
+      "session_id": "session-demo-reserve-1",
+      "numbers": [
+        "033",
+        "034"
+      ],
+      "expires_at": "2026-10-08T16:49:08.806Z",
+      "status": "expired",
+      "created_at": "2026-10-08T16:42:08.806Z"
+    },
+    "res-seed-2": {
+      "id": "res-seed-2",
+      "session_id": "session-demo-reserve-2",
+      "numbers": [
+        "210",
+        "211",
+        "212"
+      ],
+      "expires_at": "2026-10-08T16:51:08.806Z",
+      "status": "expired",
+      "created_at": "2026-10-08T16:42:08.806Z"
+    },
+    "res-1791477743414-b1d76": {
+      "id": "res-1791477743414-b1d76",
+      "session_id": "test-session-1",
+      "numbers": [
+        "050",
+        "051"
+      ],
+      "expires_at": "2026-10-08T16:52:23.414Z",
+      "status": "cancelled",
+      "created_at": "2026-10-08T16:42:23.414Z"
+    },
+    "res-1791478088051-1zvfu": {
+      "id": "res-1791478088051-1zvfu",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "001",
+        "017",
+        "055"
+      ],
+      "expires_at": "2026-10-08T16:58:08.051Z",
+      "status": "expired",
+      "created_at": "2026-10-08T16:48:08.051Z"
+    },
+    "res-1791731690113-hm3k6": {
+      "id": "res-1791731690113-hm3k6",
+      "session_id": "test-session-mach",
+      "numbers": [
+        "305",
+        "306"
+      ],
+      "expires_at": "2026-10-11T15:24:50.113Z",
+      "status": "completed",
+      "created_at": "2026-10-11T15:14:50.113Z"
+    },
+    "res-1791731746991-8t0a3": {
+      "id": "res-1791731746991-8t0a3",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "047"
+      ],
+      "expires_at": "2026-10-11T15:25:46.991Z",
+      "status": "completed",
+      "created_at": "2026-10-11T15:15:46.991Z"
+    },
+    "res-1791731900140-t9vxx": {
+      "id": "res-1791731900140-t9vxx",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "056"
+      ],
+      "expires_at": "2026-10-11T15:28:20.140Z",
+      "status": "completed",
+      "created_at": "2026-10-11T15:18:20.140Z"
+    },
+    "res-1791732043332-ij0vk": {
+      "id": "res-1791732043332-ij0vk",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "036"
+      ],
+      "expires_at": "2026-10-11T15:30:43.332Z",
+      "status": "expired",
+      "created_at": "2026-10-11T15:20:43.332Z"
+    },
+    "res-1791732399638-v8dmb": {
+      "id": "res-1791732399638-v8dmb",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "057"
+      ],
+      "expires_at": "2026-10-11T15:36:39.638Z",
+      "status": "expired",
+      "created_at": "2026-10-11T15:26:39.638Z"
+    },
+    "res-1791735987828-owji1": {
+      "id": "res-1791735987828-owji1",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "046",
+        "058"
+      ],
+      "expires_at": "2026-10-11T16:36:27.828Z",
+      "status": "expired",
+      "created_at": "2026-10-11T16:26:27.828Z"
+    },
+    "res-1791736648510-dn30y": {
+      "id": "res-1791736648510-dn30y",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "274"
+      ],
+      "expires_at": "2026-10-11T16:47:28.510Z",
+      "status": "expired",
+      "created_at": "2026-10-11T16:37:28.510Z"
+    },
+    "res-1791737028524-sdzpn": {
+      "id": "res-1791737028524-sdzpn",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "030"
+      ],
+      "expires_at": "2026-10-11T16:53:48.524Z",
+      "status": "expired",
+      "created_at": "2026-10-11T16:43:48.524Z"
+    },
+    "res-1791737104528-8hlyk": {
+      "id": "res-1791737104528-8hlyk",
+      "session_id": "sess_1791478052500_7o37ub5",
+      "numbers": [
+        "030"
+      ],
+      "expires_at": "2026-10-11T16:55:04.528Z",
+      "status": "expired",
+      "created_at": "2026-10-11T16:45:04.528Z"
+    },
+    "res-1791738117486-dx1x1": {
+      "id": "res-1791738117486-dx1x1",
+      "session_id": "test-sess-99",
+      "numbers": [
+        "001"
+      ],
+      "expires_at": "2026-10-11T17:11:57.486Z",
+      "status": "completed",
+      "created_at": "2026-10-11T17:01:57.486Z"
+    }
+  },
+  "orders": {
+    "ORD-1001": {
+      "id": "ORD-1001",
+      "buyer_id": "b-1",
+      "buyer_nombre": "Carlos Muñoz Valenzuela",
+      "buyer_documento": "16.782.901-4",
+      "buyer_telefono": "+56 9 8765 4321",
+      "buyer_email": "carlos.munoz@email.cl",
+      "numbers": [
+        "007",
+        "025",
+        "118"
+      ],
+      "total": 15000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-668216",
+      "created_at": "2026-10-06T01:21:11.802Z"
+    },
+    "ORD-1002": {
+      "id": "ORD-1002",
+      "buyer_id": "b-2",
+      "buyer_nombre": "Valentina Silva Soto",
+      "buyer_documento": "18.432.109-K",
+      "buyer_telefono": "+56 9 7654 3210",
+      "buyer_email": "v.silva@gmail.com",
+      "numbers": [
+        "042",
+        "099"
+      ],
+      "total": 10000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-683265",
+      "created_at": "2026-10-05T22:58:12.012Z"
+    },
+    "ORD-1003": {
+      "id": "ORD-1003",
+      "buyer_id": "b-3",
+      "buyer_nombre": "Matías Morales Lagos",
+      "buyer_documento": "15.890.345-2",
+      "buyer_telefono": "+56 9 6543 2109",
+      "buyer_email": "matias.m@outlook.com",
+      "numbers": [
+        "150",
+        "200",
+        "350",
+        "480"
+      ],
+      "total": 20000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-412200",
+      "created_at": "2026-10-07T23:24:52.827Z"
+    },
+    "ORD-1004": {
+      "id": "ORD-1004",
+      "buyer_id": "b-4",
+      "buyer_nombre": "Francisca Araya Rojas",
+      "buyer_documento": "19.123.456-7",
+      "buyer_telefono": "+56 9 5432 1098",
+      "buyer_email": "fran.araya@live.cl",
+      "numbers": [
+        "077",
+        "124",
+        "301"
+      ],
+      "total": 15000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-251257",
+      "created_at": "2026-10-06T10:44:13.921Z"
+    },
+    "ORD-1005": {
+      "id": "ORD-1005",
+      "buyer_id": "b-5",
+      "buyer_nombre": "Ignacio Fuentes Pinto",
+      "buyer_documento": "17.654.321-8",
+      "buyer_telefono": "+56 9 4321 0987",
+      "buyer_email": "ifuentes@hotmail.com",
+      "numbers": [
+        "245",
+        "246"
+      ],
+      "total": 10000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-682362",
+      "created_at": "2026-10-08T06:52:29.684Z"
+    },
+    "ORD-1006": {
+      "id": "ORD-1006",
+      "buyer_id": "b-6",
+      "buyer_nombre": "Camila Espinoza Jara",
+      "buyer_documento": "18.987.654-3",
+      "buyer_telefono": "+56 9 3210 9876",
+      "buyer_email": "camila.jara@gmail.com",
+      "numbers": [
+        "015",
+        "180"
+      ],
+      "total": 10000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-782845",
+      "created_at": "2026-10-07T17:02:20.199Z"
+    },
+    "ORD-1007": {
+      "id": "ORD-1007",
+      "buyer_id": "b-7",
+      "buyer_nombre": "Rodrigo Henríquez Palma",
+      "buyer_documento": "14.567.890-1",
+      "buyer_telefono": "+56 9 9123 4567",
+      "buyer_email": "rodrigo.h@empresa.cl",
+      "numbers": [
+        "333",
+        "444",
+        "500"
+      ],
+      "total": 15000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-868271",
+      "created_at": "2026-10-06T01:04:26.241Z"
+    },
+    "ORD-1008": {
+      "id": "ORD-1008",
+      "buyer_id": "b-8",
+      "buyer_nombre": "Javiera Poblete Miranda",
+      "buyer_documento": "20.109.876-5",
+      "buyer_telefono": "+56 9 8234 5678",
+      "buyer_email": "javi.poblete@gmail.com",
+      "numbers": [
+        "088",
+        "111"
+      ],
+      "total": 10000,
+      "status": "paid",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-544132",
+      "created_at": "2026-10-07T16:19:59.320Z"
+    },
+    "ORD-694190": {
+      "id": "ORD-694190",
+      "buyer_id": "buyer-1791731694190-ho5i",
+      "buyer_nombre": "Esteban Paredes",
+      "buyer_documento": "15.345.678-9",
+      "buyer_telefono": "+56 9 8888 7777",
+      "buyer_email": "esteban@paredes.cl",
+      "numbers": [
+        "305",
+        "306"
+      ],
+      "total": 4000,
+      "status": "paid",
+      "payment_provider": "mach_bci",
+      "transaction_id": "MACH-1791731694190-2804",
+      "created_at": "2026-10-11T15:14:54.190Z"
+    },
+    "ORD-987063": {
+      "id": "ORD-987063",
+      "buyer_id": "buyer-1791731987063-nn65",
+      "buyer_nombre": "william aranda",
+      "buyer_documento": "17.003.766-9",
+      "buyer_telefono": "+56934696074",
+      "buyer_email": "kognitiastudioia@gmail.com",
+      "numbers": [
+        "056"
+      ],
+      "total": 2000,
+      "status": "paid",
+      "payment_provider": "mach_bci",
+      "transaction_id": "MACH-1791731987063-9159",
+      "created_at": "2026-10-11T15:19:47.063Z"
+    },
+    "ORD-117503": {
+      "id": "ORD-117503",
+      "buyer_id": "buyer-1791738117503-t1q9",
+      "buyer_nombre": "Test Comprador Flow",
+      "buyer_documento": "19.876.543-2",
+      "buyer_telefono": "+56912345678",
+      "buyer_email": "juan@outlook.com",
+      "numbers": [
+        "001"
+      ],
+      "total": 2000,
+      "status": "paid",
+      "payment_provider": "flow",
+      "transaction_id": "FLOW-1791738117503-8127",
+      "created_at": "2026-10-11T17:01:57.503Z"
+    }
+  },
+  "payments": {
+    "PAY-1002": {
+      "id": "PAY-1002",
+      "order_id": "ORD-1001",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-668216",
+      "amount": 15000,
+      "status": "approved",
+      "paid_at": "2026-10-06T01:21:11.802Z"
+    },
+    "PAY-1003": {
+      "id": "PAY-1003",
+      "order_id": "ORD-1002",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-683265",
+      "amount": 10000,
+      "status": "approved",
+      "paid_at": "2026-10-05T22:58:12.012Z"
+    },
+    "PAY-1004": {
+      "id": "PAY-1004",
+      "order_id": "ORD-1003",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-412200",
+      "amount": 20000,
+      "status": "approved",
+      "paid_at": "2026-10-07T23:24:52.827Z"
+    },
+    "PAY-1005": {
+      "id": "PAY-1005",
+      "order_id": "ORD-1004",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-251257",
+      "amount": 15000,
+      "status": "approved",
+      "paid_at": "2026-10-06T10:44:13.921Z"
+    },
+    "PAY-1006": {
+      "id": "PAY-1006",
+      "order_id": "ORD-1005",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-682362",
+      "amount": 10000,
+      "status": "approved",
+      "paid_at": "2026-10-08T06:52:29.684Z"
+    },
+    "PAY-1007": {
+      "id": "PAY-1007",
+      "order_id": "ORD-1006",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-782845",
+      "amount": 10000,
+      "status": "approved",
+      "paid_at": "2026-10-07T17:02:20.199Z"
+    },
+    "PAY-1008": {
+      "id": "PAY-1008",
+      "order_id": "ORD-1007",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-868271",
+      "amount": 15000,
+      "status": "approved",
+      "paid_at": "2026-10-06T01:04:26.241Z"
+    },
+    "PAY-1009": {
+      "id": "PAY-1009",
+      "order_id": "ORD-1008",
+      "payment_provider": "webpay_plus",
+      "transaction_id": "TBK-TX-544132",
+      "amount": 10000,
+      "status": "approved",
+      "paid_at": "2026-10-07T16:19:59.320Z"
+    },
+    "PAY-694190": {
+      "id": "PAY-694190",
+      "order_id": "ORD-694190",
+      "payment_provider": "mach_bci",
+      "transaction_id": "MACH-1791731694190-2804",
+      "amount": 4000,
+      "status": "approved",
+      "paid_at": "2026-10-11T15:14:54.190Z"
+    },
+    "PAY-987063": {
+      "id": "PAY-987063",
+      "order_id": "ORD-987063",
+      "payment_provider": "mach_bci",
+      "transaction_id": "MACH-1791731987063-9159",
+      "amount": 2000,
+      "status": "approved",
+      "paid_at": "2026-10-11T15:19:47.063Z"
+    },
+    "PAY-117503": {
+      "id": "PAY-117503",
+      "order_id": "ORD-117503",
+      "payment_provider": "flow",
+      "transaction_id": "FLOW-1791738117503-8127",
+      "amount": 2000,
+      "status": "approved",
+      "paid_at": "2026-10-11T17:01:57.503Z"
+    }
+  }
+}
